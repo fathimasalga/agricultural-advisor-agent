@@ -1,24 +1,18 @@
-# Agricultural Advisor Agent 🌾🤖
-
+# 🌾 Agricultural Advisor Agent 🌾🤖
+A production-ready multi-agent AI system that provides intelligent crop recommendations for farmers in Kerala, India.
 > **Capstone Project**: Kaggle 5-Day AI Agents: Intensive Vibe Coding Course with Google
 > 
 > **Status**: ✅ Production-Ready | **Accuracy**: 87% | **Deployment**: Google Cloud Run (LIVE)
+>
+> **Live Demo:** `https://agricultural-advisor-[id].cloud.run.app`
+> 
+>**Repository:** `https://github.com/[username]/agricultural-advisor-agent`
 
-An intelligent agricultural advisory system that recommends optimal crops to Kerala farmers using a sophisticated multi-agent autonomous architecture. Built to demonstrate all 5 days of course concepts: from foundational agent design through production-grade deployment.
 
-# 🌾 Agricultural Advisor Agent
-
-A production-ready multi-agent AI system that provides intelligent crop recommendations for farmers in Kerala, India.
-
-**Built for:** Kaggle 5-Day AI Agents: Intensive Vibe Coding Course with Google (June 2026)  
-**Live Demo:** `https://agricultural-advisor-[id].cloud.run.app`  
-**Repository:** `https://github.com/[username]/agricultural-advisor-agent`
-
----
 
 ## 🎯 Overview
 
-The **Agricultural Advisor Agent** is a four-agent orchestration system that helps farmers make data-driven decisions about crop selection. By analyzing season, soil conditions, budget, and real-time weather data, the system recommends the most profitable and safe crops to plant.
+The **Agricultural Advisor Agent** is a four-agent orchestration system that helps farmers make data-driven decisions about crop selection. By analyzing season, soil conditions, budget, and real-time weather data, the system recommends the most profitable and safe crops to plant. This intelligent system using multi-agent autonomous architecture is built to demonstrate all 5 days of course concepts: from foundational agent design through production-grade deployment.
 
 ### 📊 Key Features
 
