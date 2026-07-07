@@ -226,10 +226,8 @@ curl http://localhost:5000/
 ```
 agricultural-advisor-agent/
 ├── app.py                    # Flask application
-├── orchestrator.py           # Agent orchestrator
 ├── requirements.txt          # Python dependencies
 ├── Dockerfile                # Container image
-├── .gitignore               # Git ignore rules
 ├── data/
 │   ├── crops.json           # 8 crops with details
 │   └── districts.json       # 14 districts with coordinates
@@ -239,11 +237,8 @@ agricultural-advisor-agent/
 │   ├── disease_detective.py # Agent 2
 │   ├── market_advisor.py    # Agent 3
 │   └── decision_synthesizer.py # Agent 4
-├── api/
-│   ├── __init__.py
-│   └── endpoints.py         # API routes
-├── README.md                # This file
-└── .env.example            # Environment variables template
+└── README.md                # This file
+
 ```
 
 ---
