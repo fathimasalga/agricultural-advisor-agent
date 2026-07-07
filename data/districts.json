@@ -1,0 +1,142 @@
+{
+  "thrissur": {
+    "name": "Thrissur",
+    "latitude": 10.5276,
+    "longitude": 76.2144,
+    "altitude_meters": 10,
+    "soil_type": "laterite",
+    "soil_ph": 5.5,
+    "rainfall_mm": 2800,
+    "temperature_celsius": 27
+  },
+  "kottayam": {
+    "name": "Kottayam",
+    "latitude": 9.5941,
+    "longitude": 76.8255,
+    "altitude_meters": 50,
+    "soil_type": "laterite",
+    "soil_ph": 5.3,
+    "rainfall_mm": 3200,
+    "temperature_celsius": 26
+  },
+  "ernakulam": {
+    "name": "Ernakulam",
+    "latitude": 9.8784,
+    "longitude": 76.2711,
+    "altitude_meters": 5,
+    "soil_type": "coastal",
+    "soil_ph": 6.2,
+    "rainfall_mm": 2400,
+    "temperature_celsius": 28
+  },
+  "wayanad": {
+    "name": "Wayanad",
+    "latitude": 11.5957,
+    "longitude": 75.7803,
+    "altitude_meters": 700,
+    "soil_type": "laterite",
+    "soil_ph": 5.0,
+    "rainfall_mm": 2500,
+    "temperature_celsius": 22
+  },
+  "idukki": {
+    "name": "Idukki",
+    "latitude": 10.2597,
+    "longitude": 77.23,
+    "altitude_meters": 900,
+    "soil_type": "laterite",
+    "soil_ph": 5.2,
+    "rainfall_mm": 3500,
+    "temperature_celsius": 20
+  },
+  "kannur": {
+    "name": "Kannur",
+    "latitude": 12.2207,
+    "longitude": 75.3705,
+    "altitude_meters": 50,
+    "soil_type": "laterite",
+    "soil_ph": 5.8,
+    "rainfall_mm": 2200,
+    "temperature_celsius": 27
+  },
+  "kasaragod": {
+    "name": "Kasaragod",
+    "latitude": 12.4988,
+    "longitude": 75.5677,
+    "altitude_meters": 10,
+    "soil_type": "laterite",
+    "soil_ph": 5.9,
+    "rainfall_mm": 2100,
+    "temperature_celsius": 27
+  },
+  "kozhikode": {
+    "name": "Kozhikode",
+    "latitude": 11.2588,
+    "longitude": 75.7804,
+    "altitude_meters": 5,
+    "soil_type": "laterite",
+    "soil_ph": 5.7,
+    "rainfall_mm": 2300,
+    "temperature_celsius": 27
+  },
+  "malappuram": {
+    "name": "Malappuram",
+    "latitude": 10.8348,
+    "longitude": 76.1968,
+    "altitude_meters": 50,
+    "soil_type": "laterite",
+    "soil_ph": 5.5,
+    "rainfall_mm": 2600,
+    "temperature_celsius": 27
+  },
+  "palakkad": {
+    "name": "Palakkad",
+    "latitude": 10.7672,
+    "longitude": 76.7444,
+    "altitude_meters": 100,
+    "soil_type": "laterite",
+    "soil_ph": 6.0,
+    "rainfall_mm": 2100,
+    "temperature_celsius": 28
+  },
+  "pathanamthitta": {
+    "name": "Pathanamthitta",
+    "latitude": 9.2713,
+    "longitude": 76.7557,
+    "altitude_meters": 100,
+    "soil_type": "laterite",
+    "soil_ph": 5.4,
+    "rainfall_mm": 2900,
+    "temperature_celsius": 26
+  },
+  "alappuzha": {
+    "name": "Alappuzha",
+    "latitude": 9.4981,
+    "longitude": 76.3388,
+    "altitude_meters": 2,
+    "soil_type": "alluvial",
+    "soil_ph": 6.5,
+    "rainfall_mm": 2800,
+    "temperature_celsius": 28
+  },
+  "kollam": {
+    "name": "Kollam",
+    "latitude": 8.8932,
+    "longitude": 76.5853,
+    "altitude_meters": 5,
+    "soil_type": "laterite",
+    "soil_ph": 5.8,
+    "rainfall_mm": 2800,
+    "temperature_celsius": 28
+  },
+  "thiruvananthapuram": {
+    "name": "Thiruvananthapuram",
+    "latitude": 8.5241,
+    "longitude": 76.9366,
+    "altitude_meters": 50,
+    "soil_type": "laterite",
+    "soil_ph": 6.0,
+    "rainfall_mm": 1800,
+    "temperature_celsius": 28
+  }
+}

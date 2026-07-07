@@ -1,0 +1,216 @@
+{
+  "coconut": {
+    "name": "Coconut",
+    "best_season": [
+      "monsoon",
+      "pre-monsoon"
+    ],
+    "soil_type": [
+      "laterite",
+      "coastal"
+    ],
+    "soil_ph_range": [
+      5.5,
+      7.0
+    ],
+    "growing_cycle_days": 1095,
+    "plants_per_acre": 40,
+    "yield_per_plant": 120,
+    "yield_units": "coconuts",
+    "cost_per_plant_rupees": 800,
+    "market_price_per_unit_rupees": 110,
+    "expected_profit_per_acre_rupees": 120000,
+    "disease_risks": {
+      "fungal": "medium",
+      "bacterial": "low",
+      "pest": "low"
+    }
+  },
+  "spices": {
+    "name": "Spices (Cardamom, Pepper, Cloves)",
+    "best_season": [
+      "monsoon",
+      "post-monsoon"
+    ],
+    "soil_type": [
+      "laterite",
+      "alluvial"
+    ],
+    "soil_ph_range": [
+      5.0,
+      6.5
+    ],
+    "growing_cycle_days": 365,
+    "plants_per_acre": 2000,
+    "yield_per_plant": 0.5,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 20,
+    "market_price_per_unit_rupees": 300,
+    "expected_profit_per_acre_rupees": 85000,
+    "disease_risks": {
+      "fungal": "high",
+      "bacterial": "medium",
+      "pest": "medium"
+    }
+  },
+  "tea": {
+    "name": "Tea",
+    "best_season": [
+      "monsoon",
+      "post-monsoon"
+    ],
+    "soil_type": [
+      "laterite",
+      "alluvial"
+    ],
+    "soil_ph_range": [
+      4.5,
+      6.0
+    ],
+    "growing_cycle_days": 1095,
+    "plants_per_acre": 5000,
+    "yield_per_plant": 1.2,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 15,
+    "market_price_per_unit_rupees": 350,
+    "expected_profit_per_acre_rupees": 110000,
+    "disease_risks": {
+      "fungal": "low",
+      "bacterial": "low",
+      "pest": "low"
+    }
+  },
+  "cardamom": {
+    "name": "Cardamom",
+    "best_season": [
+      "monsoon",
+      "post-monsoon"
+    ],
+    "soil_type": [
+      "laterite"
+    ],
+    "soil_ph_range": [
+      5.5,
+      7.0
+    ],
+    "growing_cycle_days": 365,
+    "plants_per_acre": 1500,
+    "yield_per_plant": 0.8,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 50,
+    "market_price_per_unit_rupees": 500,
+    "expected_profit_per_acre_rupees": 95000,
+    "disease_risks": {
+      "fungal": "high",
+      "bacterial": "medium",
+      "pest": "high"
+    }
+  },
+  "rice": {
+    "name": "Rice",
+    "best_season": [
+      "monsoon"
+    ],
+    "soil_type": [
+      "clay",
+      "alluvial"
+    ],
+    "soil_ph_range": [
+      6.0,
+      7.5
+    ],
+    "growing_cycle_days": 120,
+    "plants_per_acre": 100000,
+    "yield_per_plant": 0.02,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 0.5,
+    "market_price_per_unit_rupees": 45,
+    "expected_profit_per_acre_rupees": 35000,
+    "disease_risks": {
+      "fungal": "high",
+      "bacterial": "high",
+      "pest": "high"
+    }
+  },
+  "cassava": {
+    "name": "Cassava",
+    "best_season": [
+      "monsoon",
+      "summer"
+    ],
+    "soil_type": [
+      "sandy",
+      "laterite"
+    ],
+    "soil_ph_range": [
+      5.5,
+      7.5
+    ],
+    "growing_cycle_days": 365,
+    "plants_per_acre": 4000,
+    "yield_per_plant": 2.5,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 10,
+    "market_price_per_unit_rupees": 15,
+    "expected_profit_per_acre_rupees": 42000,
+    "disease_risks": {
+      "fungal": "medium",
+      "bacterial": "low",
+      "pest": "medium"
+    }
+  },
+  "banana": {
+    "name": "Banana",
+    "best_season": [
+      "monsoon",
+      "pre-monsoon"
+    ],
+    "soil_type": [
+      "alluvial",
+      "laterite"
+    ],
+    "soil_ph_range": [
+      6.0,
+      7.5
+    ],
+    "growing_cycle_days": 365,
+    "plants_per_acre": 1000,
+    "yield_per_plant": 80,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 60,
+    "market_price_per_unit_rupees": 25,
+    "expected_profit_per_acre_rupees": 1872000,
+    "disease_risks": {
+      "fungal": "high",
+      "bacterial": "medium",
+      "pest": "high"
+    }
+  },
+  "ginger": {
+    "name": "Ginger",
+    "best_season": [
+      "monsoon",
+      "post-monsoon"
+    ],
+    "soil_type": [
+      "alluvial",
+      "laterite"
+    ],
+    "soil_ph_range": [
+      5.5,
+      7.0
+    ],
+    "growing_cycle_days": 270,
+    "plants_per_acre": 2500,
+    "yield_per_plant": 1.5,
+    "yield_units": "kg",
+    "cost_per_plant_rupees": 25,
+    "market_price_per_unit_rupees": 100,
+    "expected_profit_per_acre_rupees": 105000,
+    "disease_risks": {
+      "fungal": "high",
+      "bacterial": "medium",
+      "pest": "medium"
+    }
+  }
+}
