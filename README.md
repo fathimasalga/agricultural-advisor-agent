@@ -53,22 +53,22 @@ Kerala farmers need intelligent recommendations for crop selection based on:
 ### Solution Architecture
 4 autonomous agents working in concert:
 
-1. **CropPlanner Agent** (Day 1)
+1. **CropPlanner Agent** 
    - Filters suitable crops by season, soil type, budget
    - Calculates yield potential scores
    - Returns ranked candidates for further analysis
 
-2. **DiseaseDetective Agent** (Day 2)
+2. **DiseaseDetective Agent** 
    - Fetches real-time weather from Open-Meteo API
    - Assesses fungal, bacterial, and pest disease risk
    - Dynamic risk calculation based on environmental data
 
-3. **MarketAdvisor Agent** (Day 3)
+3. **MarketAdvisor Agent**
    - Calculates revenue, investment, profit potential
    - Normalizes scores (0-10) for comparison
    - Assesses market demand (HIGH/MEDIUM/LOW)
 
-4. **DecisionSynthesizer Agent** (Day 4)
+4. **DecisionSynthesizer Agent**
    - Combines all insights with weighted formula
    - Final Score = (Yield × 0.3) + (Profit × 0.4) + (Safety × 0.3)
    - Generates human-readable reasoning
