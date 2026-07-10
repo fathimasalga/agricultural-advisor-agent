@@ -6,7 +6,7 @@ A production-ready multi-agent AI system that provides intelligent crop recommen
 >
 > **Live Demo:** `https://agricultural-advisor-[id].cloud.run.app`
 > 
->**Repository:** `https://github.com/[username]/agricultural-advisor-agent`
+>**Repository:** `https://github.com/fathimasalga/Agricultural-Advisor-Agent`
 
 
 
