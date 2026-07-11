@@ -2,9 +2,9 @@
 A production-ready multi-agent AI system that provides intelligent crop recommendations for farmers in Kerala, India.
 > **Capstone Project**: Kaggle 5-Day AI Agents: Intensive Vibe Coding Course with Google
 > 
-> **Status**: ✅ Production-Ready | **Accuracy**: 87% | **Deployment**: Google Cloud Run (LIVE)
+> **Status**: ✅ Production-Ready | **Accuracy**: 87% | **Deployment**: GitHub Pages (Live Demo) 
 >
-> **Live Demo:** `https://agricultural-advisor-[id].cloud.run.app`
+> **Live Demo:** `https://fathimasalga.github.io/Agricultural-Advisor-Agent/agri_agent_demo.html`
 > 
 >**Repository:** `https://github.com/fathimasalga/Agricultural-Advisor-Agent`
 
